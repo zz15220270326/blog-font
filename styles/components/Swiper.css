@@ -1,0 +1,7 @@
+.common-swiper {
+  margin: 0;
+  padding: 0;
+  border: 0.4rem solid #f6f6f6;
+  border-radius: 2rem;
+  overflow: hidden;
+}

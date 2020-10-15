@@ -1,0 +1,12 @@
+.advertisment {
+  padding: 0 1rem;
+}
+
+.adv-content {
+  border-radius: 1.2rem;
+  overflow: hidden;
+}
+
+.adv-image {
+  margin-bottom: 1rem;
+}

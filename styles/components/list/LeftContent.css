@@ -1,0 +1,24 @@
+.index-left-title {
+  font-size: 1.3rem;
+  color: #0094ff;
+  padding: 0 0.5rem;
+  cursor: pointer;
+}
+.index-left-title:hover {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.index-left-icons {
+  color: #aaa;
+}
+
+.index-left-icons span {
+  color: #888;
+  padding: 0.35rem;
+}
+
+.index-left-context {
+  color: #666;
+  padding: 0.5rem;
+}

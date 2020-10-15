@@ -1,0 +1,29 @@
+.header {
+  background-color: #fff;
+  padding: 0.5rem;
+  overflow: hidden;
+  height: 3rem;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.author-logo {
+  color: #0094ff;
+  font-size: 24px;
+  margin-left: 5rem;
+  margin-right: 1.2rem;
+}
+
+.author-text {
+  font-size: 0.8rem;
+  color: #999;
+  display: inline-block;
+}
+
+.ant-menu {
+  line-height: 2.5rem;
+}
+
+.ant-menu-item {
+  padding: 0 1rem;
+  color: #666;
+}

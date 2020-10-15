@@ -1,0 +1,22 @@
+.author-content {
+  text-align: center;
+  padding: 0.8rem;
+}
+
+.author-content {
+  margin-bottom: 1rem;
+}
+
+.author-avatar {
+  margin-bottom: 0.3rem;
+}
+
+.author-introduction .account {
+  background-color: #999;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.ant-divider-inner-text {
+  color: rgba(0, 0, 0, 0.5);
+}
